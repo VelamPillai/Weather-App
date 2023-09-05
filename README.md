@@ -32,7 +32,7 @@ The current weather conditions are: scattered clouds
 
 1. There are many weather APIs to choose one. Sign up for a free account from **one** API on the list below, or find your own;
 
-   - [OpenWeatherMap API](https://openweathermap.org/)
+   - [OpenWeatherMap API](https://OpenWeatherMapermap.org/)
    - [Weather API](https://www.weatherapi.com/)
 
 2. Make note of your API key. You will need this later.
